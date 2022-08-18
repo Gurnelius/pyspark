@@ -1,4 +1,3 @@
-# helloworld
-Start program
-hello folks I am made of metals.
-I wanna see some good done on GitHub
+# PySpark Exercise
+
+This is an exercise for Big Data Fundamentals With PySpark.
