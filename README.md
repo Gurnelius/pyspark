@@ -1,3 +1,3 @@
 # PySpark Exercise
 
-This is an exercise for Big Data Fundamentals With PySpark.
+This is an assignment for Big Data Fundamentals With PySpark course by [Omdena](https://www.omdena.com).
